@@ -7,11 +7,11 @@ $ sudo apt-get install linux-tools-common
 
 2) get script
 
-3) set to execute
+3) to allow only you/user to execute  
 
-$ chmod 700 setgov.sh      #to allow only you/user to execute  
+$ chmod 700 setgov.sh      
 
-3)open terminal > 
+4) open terminal > 
 
 $ /path/to/setgov.sh
 
